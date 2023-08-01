@@ -1,16 +1,10 @@
 # sampleui
 
-A new Flutter project.
+FLutter fetch unsplash api photos with pagination
 
 ## Getting Started
+This Project Developed a sample ui purpose and built with getx state management
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Once the Image is fetched show the download button click to download and ask crop image to crop the download image
+if it did or not save it to local storage and show the front of the gallery
